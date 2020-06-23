@@ -1,0 +1,2 @@
+rootProject.name='Naver_translate'
+include ':app'
